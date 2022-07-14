@@ -1,2 +1,2 @@
 print("words words words and more words")
-print("2 + 5 = ",2+5)
+print("4 + 9 = ",4+9)
