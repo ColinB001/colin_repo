@@ -1,2 +1,2 @@
 # colin_repo
- Test repository
+This code prints words and does a calculation.
